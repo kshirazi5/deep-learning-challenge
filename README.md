@@ -11,4 +11,4 @@ Results:
 
 Summary:
 Deep learning techniques, using neural networking and machine learning, can be utilized to optimize donations from Alphabet Soup. This is achieved by predicting the success of different applicants. 
-An alternative model that could be used for this analysis is a decision tree, since it is much easier to implement and can be used for categorical and numerical data types. As long as the dataset is smaller and not too large or complex this can be a viable alternative for optimizing for the best sources for funding from Alphabet Soup.
+An alternative model that could be used for this analysis is a decision tree, since it is much easier to implement and can be used for categorical and numerical data types. As long as the dataset is smaller and not too large or complex this can be a viable alternative for optimizing the best sources for funding from Alphabet Soup.
